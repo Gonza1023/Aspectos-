@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programación: Arte y Ciencia</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        main {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 0 1em;
+        }
+
+        section {
+            background: white;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 1.5em;
+        }
+
+        code {
+            background: #f4f4f4;
+            padding: 0.2em 0.4em;
+            border-radius: 4px;
+        }
+
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Programación: Arte y Ciencia</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                La programación es una disciplina que exige tanto creatividad como rigor. Al escribir código, un programador debe enfocarse en soluciones prácticas que resuelvan problemas de manera eficiente. Por ejemplo, al desarrollar una aplicación web, elegir un lenguaje como JavaScript no solo permite la creación de interfaces dinámicas, sino que también asegura la compatibilidad con todos los navegadores modernos, optimizando así el alcance y el rendimiento del producto final.
+            </p>
+            <p>
+                El código, además, debe estructurarse de manera lógica y coherente. En una aplicación bien diseñada, cada módulo tiene una responsabilidad clara y delimitada, lo que facilita tanto la comprensión como la modificación del código. Por ejemplo, en una aplicación de comercio electrónico, las funciones que manejan las transacciones de pago están separadas de aquellas que gestionan el inventario, siguiendo el principio de separación de responsabilidades. Esta estructura modular no solo hace el código más limpio y fácil de mantener, sino que también permite la reutilización de componentes en otros proyectos.
+            </p>
+            <p>
+                Finalmente, el lenguaje utilizado en la programación debe ser claro y preciso. Los nombres de variables y funciones deben reflejar su propósito de manera intuitiva. Un buen ejemplo es usar nombres como <code>calcularTotalCompra</code> en lugar de nombres vagos como <code>ctc</code>. Además, los comentarios en el código son esenciales para proporcionar contexto y explicar la lógica detrás de decisiones complejas. Un comentario bien colocado puede ahorrar horas de confusión a cualquier programador que trabaje en el mismo código en el futuro, asegurando que el propósito y funcionamiento de cada sección del código sean fácilmente comprendidos.
+            </p>
+            <p>
+                Así, la programación no es solo una cuestión de hacer que las cosas funcionen, sino de hacerlo de manera que el código sea eficiente, claro y mantenible. Este equilibrio entre la practicidad de las soluciones, la estructura lógica del código y la claridad del lenguaje utilizado es lo que distingue a un buen programador de uno mediocre.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Programación: Arte y Ciencia. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
